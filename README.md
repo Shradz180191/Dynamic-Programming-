@@ -20,3 +20,9 @@
 18. Dice Throw Problem
 19. Box Stacking
 20. Egg Dropping Puzzle
+
+
+Lets start with the first example i.e.e Longest Common Subsequence (LCS)
+
+- One basic algorithm that can be used to solve LCS problem is Hirschberg's algorithm
+    Ref: https://en.wikipedia.org/wiki/Hirschberg's_algorithm
